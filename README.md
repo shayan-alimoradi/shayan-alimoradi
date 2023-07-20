@@ -18,8 +18,6 @@ I'm Shayan, a passionate backend-developer. Welcome to my GitHub profile!
 
 💬 Ask me about [Anything]
 
-<!-- GitHub Activity Graph -->
-![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shayan-9248&theme=react-dark)
 
 <!-- Let's Connect -->
 📫 How to reach me: [shayan.aimoradii@gmail.com](mailto:shayan.aimoradii@gmail.com)
