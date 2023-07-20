@@ -22,8 +22,6 @@ I'm Shayan, a passionate backend-developer. Welcome to my GitHub profile!
 ![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shayan-9248&theme=react-dark)
 
 <!-- Let's Connect -->
-📫 How to reach me: [Your Email](shayan.aimoradii@gmail.com)
-💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/shayan-alimoradi-81b625228/)
+📫 How to reach me: [Email](shayan.aimoradii@gmail.com)
 
-<!-- Footer -->
-⭐️ Show some love by starring some of my repositories!
+💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/shayan-alimoradi-81b625228/)
