@@ -4,10 +4,10 @@
 I'm Shayan, a passionate backend-developer and ai-enthusiast. Welcome to my GitHub profile! 
 
 <!-- GitHub Stats -->
-![Shayan-9248's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shayan-9248&show_icons=true&theme=radical)
+![Shayan-9248's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shayan-alimoradi&show_icons=true&theme=radical)
 
 <!-- Top Languages Used -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shayan-9248&layout=compact&langs_count=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shayan-alimoradi&layout=compact&langs_count=10)
 
 <!-- Emojis -->
 😄 Pronouns: He/Him
