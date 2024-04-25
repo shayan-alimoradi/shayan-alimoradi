@@ -4,7 +4,7 @@
 I'm Shayan, a passionate backend-developer and ai-enthusiast. Welcome to my GitHub profile! 
 
 <!-- GitHub Stats -->
-![Shayan-9248's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shayan-alimoradi&show_icons=true&theme=radical)
+![shayan-alimoradi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shayan-alimoradi&show_icons=true&theme=radical)
 
 <!-- Top Languages Used -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shayan-alimoradi&layout=compact&langs_count=10)
