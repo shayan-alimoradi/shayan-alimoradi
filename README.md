@@ -9,9 +9,6 @@ I'm Shayan, a passionate backend-developer and ai-enthusiast. Welcome to my GitH
 <!-- Top Languages Used -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shayan-alimoradi&layout=compact&langs_count=10)
 
-<!-- Emojis -->
-😄 Pronouns: He/Him
-
 <!--🔭 I’m currently working at recontent<!-- (https://www.recontent.com) -->
 
 🌱 I’m currently learning Machine Learning & Deep Learning
